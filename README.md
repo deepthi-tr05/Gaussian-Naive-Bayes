@@ -4,7 +4,7 @@ An **interactive, beautiful visualization** of face recognition using **Gaussian
 
 ## 🌐 Live Demo
 
-**[➡️ View Live Demo](https://deepthi-tr05.github.io/Gaussian-Naive-Bayes/)**
+**[➡️ View Live Demo](https://gaussian-naive-bayes.vercel.app/)**
 
 ![React](https://img.shields.io/badge/React-19-61dafb?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178c6?style=flat&logo=typescript)
